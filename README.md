@@ -10,6 +10,27 @@ For help getting started with Flutter, view our online documentation.
 
 This is how the it looks like on android device 
 
+![crypto](https://user-images.githubusercontent.com/46894876/54345754-b09b7800-4669-11e9-8311-5c6d085cde9b.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
