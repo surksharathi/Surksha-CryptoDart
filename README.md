@@ -1,16 +1,37 @@
-# cryptocranncy
+# FlutterCrypto App
 
-A new Flutter project.
+A new Flutter Crypto App built using MVP Design Pattern and Dependency Injection
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For help getting started with Flutter, view our online documentation.
 
-A few resources to get you started if this is your first Flutter project:
+### The Screen
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+This is how the it looks like on android device 
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+####  To Run the app in your local machine
+
+Clone the repository and user
+
+    flutter run
+  
+  to hot reload the project press,
+  
+     r 
+  
+  ##### What will you learn,
+  
+  1) How to use MVP in Flutter
+
+   2) Using Dependency Injection in the project
+
+   3) How to use MOCK ,PRODUCTION data in same app.
+   
+<b> Built By </b>
+ Suraksha Rathi 
